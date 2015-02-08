@@ -1,0 +1,2 @@
+2015-02-03 0:21:49 - PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/jafarraz/public_html/furniture/system/library/image.php on line 99
+2015-02-03 0:21:49 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/jafarraz/public_html/furniture/system/library/image.php on line 100
